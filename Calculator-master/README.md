@@ -24,7 +24,7 @@ A desktop calculator application developed using Java Swing and Maven.
 
 ## Installation
 
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/anuj-codess/calculator.git
 
 ## Developed By
 Anuj Sharma
