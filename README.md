@@ -17,7 +17,7 @@ A desktop calculator application developed using Java Swing and Maven.
 
 | Scientific / Dark | Standard / Light |
 |-------------------|------------------|
-| ![Dark](screenshots/scientific-dark.png) | ![Light](screenshots/standard-light.png) |
+| ![Dark](Calculator-master/screenshots/scientific-dark.png) | ![Light](Calculator-master/screenshots/standard-light.png) |
 
 ## Requirements
 - Java 11 or higher
